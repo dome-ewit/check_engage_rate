@@ -1,0 +1,45 @@
+ERROR - 2023-01-27 05:13:59 --> Error connecting to the database: mysqli_sql_exception: A socket operation was attempted to an unreachable host.
+ in C:\xampp\htdocs\Project\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\Project\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('122.155.166.63', 'intern', 'TVIw3yZchDLH', 'influencer', 3306, '', 0)
+#1 C:\xampp\htdocs\Project\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Project\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Project\system\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,...')
+#4 C:\xampp\htdocs\Project\app\Models\database63_.php(23): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\Project\app\Controllers\influencer_controller.php(33): App\Models\database63_->query_63(NULL, NULL)
+#6 C:\xampp\htdocs\Project\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#7 C:\xampp\htdocs\Project\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#8 C:\xampp\htdocs\Project\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Project\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: A socket operation was attempted to an unreachable host.
+ in C:\xampp\htdocs\Project\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\Project\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Project\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Project\system\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,...')
+#3 C:\xampp\htdocs\Project\app\Models\database63_.php(23): CodeIgniter\Model->__call('query', Array)
+#4 C:\xampp\htdocs\Project\app\Controllers\influencer_controller.php(33): App\Models\database63_->query_63(NULL, NULL)
+#5 C:\xampp\htdocs\Project\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#6 C:\xampp\htdocs\Project\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#7 C:\xampp\htdocs\Project\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Project\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-01-27 05:13:59 --> Unable to connect to the database.
+Main connection [MySQLi]: A socket operation was attempted to an unreachable host.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,follower,post_total 
+		FROM influencer_stat_post_recent 
+		WHERE network = \'\' 
+		AND influencer_id = \'\'
+        ORDER BY create_date DESC
+        LIMIT 0,1')
+ 3 APPPATH\Models\database63_.php(23): CodeIgniter\Model->__call('query', [...])
+ 4 APPPATH\Controllers\influencer_controller.php(33): App\Models\database63_->query_63(null, null)
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

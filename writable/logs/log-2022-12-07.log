@@ -1,0 +1,430 @@
+CRITICAL - 2022-12-07 02:06:04 --> Undefined variable: query_database_route24
+in APPPATH\Views\demo_view.php on line 398.
+ 1 APPPATH\Views\demo_view.php(398): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query_database_route24', 'APPPATH\\Views\\demo_view.php', 398, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(108): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:09:37 --> Undefined variable: query_database_route24
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query_database_route24', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(108): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:11:50 --> Undefined variable: query_database_route24
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query_database_route24', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:12:10 --> Undefined variable: query_database_route24
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query_database_route24', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:12:43 --> Undefined variable: query_database_route24
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query_database_route24', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:13:02 --> Undefined variable: query_database_route24
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query_database_route24', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:13:44 --> Undefined variable: query_database_route24
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query_database_route24', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:15:20 --> Undefined variable: data24
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: data24', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:16:05 --> Undefined variable: results
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: results', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:16:43 --> Undefined variable: query_database_route24
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query_database_route24', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:17:26 --> Undefined variable: results24
+in APPPATH\Views\demo_view.php on line 681.
+ 1 APPPATH\Views\demo_view.php(681): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: results24', 'APPPATH\\Views\\demo_view.php', 681, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 02:19:44 --> Undefined variable: query_database_route24
+in APPPATH\Views\demo_view.php on line 59.
+ 1 APPPATH\Views\demo_view.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query_database_route24', 'APPPATH\\Views\\demo_view.php', 59, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(33): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 03:07:49 --> Class 'App\Controllers\calculateEngage' not found
+in APPPATH\Controllers\influencer_controller.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:10:22 --> Undefined variable: i
+in APPPATH\Views\demo_view.php on line 705.
+ 1 APPPATH\Views\demo_view.php(705): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: i', 'APPPATH\\Views\\demo_view.php', 705, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(36): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:11:17 --> Undefined variable: value_rawdata
+in APPPATH\Views\demo_view.php on line 707.
+ 1 APPPATH\Views\demo_view.php(707): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: value_rawdata', 'APPPATH\\Views\\demo_view.php', 707, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(36): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:18:35 --> Undefined variable: rawdata_63
+in APPPATH\Libraries\calculate.php on line 9.
+ 1 APPPATH\Libraries\calculate.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: rawdata_63', 'APPPATH\\Libraries\\calculate.php', 9, [])
+ 2 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:19:13 --> Undefined variable: rawdata_database_63
+in APPPATH\Libraries\calculate.php on line 9.
+ 1 APPPATH\Libraries\calculate.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: rawdata_database_63', 'APPPATH\\Libraries\\calculate.php', 9, [])
+ 2 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:19:46 --> Undefined variable: results63
+in APPPATH\Libraries\calculate.php on line 9.
+ 1 APPPATH\Libraries\calculate.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: results63', 'APPPATH\\Libraries\\calculate.php', 9, [])
+ 2 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:24:14 --> Call to undefined method App\Libraries\Calculate::query_63()
+in APPPATH\Controllers\influencer_controller.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:24:36 --> Too few arguments to function App\Models\database63_::query_63(), 0 passed in C:\xampp\htdocs\Project\app\Controllers\influencer_controller.php on line 27 and exactly 2 expected
+in APPPATH\Models\database63_.php on line 15.
+ 1 APPPATH\Controllers\influencer_controller.php(27): App\Models\database63_->query_63()
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:24:52 --> Call to undefined method App\Models\database24_::query_63
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('query_63', [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:35:09 --> Undefined variable: txtKeywords
+in APPPATH\Libraries\calculate.php on line 11.
+ 1 APPPATH\Libraries\calculate.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: txtKeywords', 'APPPATH\\Libraries\\calculate.php', 11, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:35:18 --> Too few arguments to function App\Models\database63_::query_63(), 0 passed in C:\xampp\htdocs\Project\app\Libraries\calculate.php on line 11 and exactly 2 expected
+in APPPATH\Models\database63_.php on line 15.
+ 1 APPPATH\Libraries\calculate.php(11): App\Models\database63_->query_63()
+ 2 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:35:52 --> Undefined property: App\Libraries\Calculate::$request
+in APPPATH\Libraries\calculate.php on line 10.
+ 1 APPPATH\Libraries\calculate.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Libraries\\Calculate::$request', 'APPPATH\\Libraries\\calculate.php', 10, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:36:31 --> Too few arguments to function App\Libraries\Calculate::calculateEngage(), 0 passed in C:\xampp\htdocs\Project\app\Controllers\influencer_controller.php on line 27 and exactly 2 expected
+in APPPATH\Libraries\calculate.php on line 7.
+ 1 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:36:38 --> Undefined variable: txtKeywords
+in APPPATH\Libraries\calculate.php on line 12.
+ 1 APPPATH\Libraries\calculate.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: txtKeywords', 'APPPATH\\Libraries\\calculate.php', 12, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:37:03 --> Undefined property: App\Libraries\Calculate::$request
+in APPPATH\Libraries\calculate.php on line 10.
+ 1 APPPATH\Libraries\calculate.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Libraries\\Calculate::$request', 'APPPATH\\Libraries\\calculate.php', 10, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:37:47 --> Too few arguments to function App\Libraries\Calculate::calculateEngage(), 0 passed in C:\xampp\htdocs\Project\app\Controllers\influencer_controller.php on line 27 and exactly 2 expected
+in APPPATH\Libraries\calculate.php on line 7.
+ 1 APPPATH\Controllers\influencer_controller.php(27): App\Libraries\Calculate->calculateEngage()
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:41:02 --> Call to undefined method App\Libraries\Calculate::query_63()
+in APPPATH\Controllers\influencer_controller.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:43:29 --> Undefined variable: rawdata_database_63
+in APPPATH\Views\demo_view.php on line 84.
+ 1 APPPATH\Views\demo_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: rawdata_database_63', 'APPPATH\\Views\\demo_view.php', 84, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(37): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:44:35 --> Call to undefined function App\Libraries\controller()
+in APPPATH\Libraries\calculate.php on line 17.
+ 1 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:44:47 --> Call to undefined function App\Libraries\controllers()
+in APPPATH\Libraries\calculate.php on line 17.
+ 1 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 21:50:10 --> Undefined variable: rawdata_database_63
+in APPPATH\Libraries\calculate.php on line 17.
+ 1 APPPATH\Libraries\calculate.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: rawdata_database_63', 'APPPATH\\Libraries\\calculate.php', 17, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:04:01 --> Undefined variable: rawdata_database_63
+in APPPATH\Libraries\calculate.php on line 19.
+ 1 APPPATH\Libraries\calculate.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: rawdata_database_63', 'APPPATH\\Libraries\\calculate.php', 19, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:10:41 --> Undefined variable: rawdata_63
+in APPPATH\Libraries\calculate.php on line 28.
+ 1 APPPATH\Libraries\calculate.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: rawdata_63', 'APPPATH\\Libraries\\calculate.php', 28, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'instagram')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:20:19 --> Trying to get property 'like' of non-object
+in APPPATH\Libraries\calculate.php on line 26.
+ 1 APPPATH\Libraries\calculate.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'like\' of non-object', 'APPPATH\\Libraries\\calculate.php', 26, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:20:40 --> Undefined variable: rawdata_database_63
+in APPPATH\Libraries\calculate.php on line 19.
+ 1 APPPATH\Libraries\calculate.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: rawdata_database_63', 'APPPATH\\Libraries\\calculate.php', 19, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:32:01 --> Undefined variable: i
+in APPPATH\Views\demo_view.php on line 87.
+ 1 APPPATH\Views\demo_view.php(87): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: i', 'APPPATH\\Views\\demo_view.php', 87, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(37): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:32:18 --> Undefined variable: value_rawdata
+in APPPATH\Views\demo_view.php on line 87.
+ 1 APPPATH\Views\demo_view.php(87): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: value_rawdata', 'APPPATH\\Views\\demo_view.php', 87, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(37): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:33:43 --> Argument 2 passed to view() must be of the type array, object given, called in C:\xampp\htdocs\Project\app\Controllers\influencer_controller.php on line 37
+in SYSTEMPATH\Common.php on line 1120.
+ 1 APPPATH\Controllers\influencer_controller.php(37): view('demo_view', Object(App\Libraries\Calculate))
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:34:12 --> Argument 2 passed to view() must be of the type array, float given, called in C:\xampp\htdocs\Project\app\Controllers\influencer_controller.php on line 37
+in SYSTEMPATH\Common.php on line 1120.
+ 1 APPPATH\Controllers\influencer_controller.php(37): view('demo_view', 6.0)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:54:43 --> Undefined index: link
+in APPPATH\Libraries\calculate.php on line 23.
+ 1 APPPATH\Libraries\calculate.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: link', 'APPPATH\\Libraries\\calculate.php', 23, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:56:33 --> Undefined index: link
+in APPPATH\Libraries\calculate.php on line 23.
+ 1 APPPATH\Libraries\calculate.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: link', 'APPPATH\\Libraries\\calculate.php', 23, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:57:10 --> Undefined index: link_post
+in APPPATH\Libraries\calculate.php on line 23.
+ 1 APPPATH\Libraries\calculate.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: link_post', 'APPPATH\\Libraries\\calculate.php', 23, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:58:51 --> Undefined variable: link
+in APPPATH\Libraries\calculate.php on line 33.
+ 1 APPPATH\Libraries\calculate.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: link', 'APPPATH\\Libraries\\calculate.php', 33, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 22:59:51 --> Call to undefined method stdClass::link()
+in APPPATH\Libraries\calculate.php on line 33.
+ 1 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Calculate->calculateEngage('11081', 'facebook')
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 23:40:53 --> Class 'App\Controllers\facebook_calculate' not found
+in APPPATH\Controllers\influencer_controller.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 23:41:12 --> Class 'App\Controllers\Facebook_calculate' not found
+in APPPATH\Controllers\influencer_controller.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 23:41:40 --> Class 'App\Controllers\Facebook_Calculate' not found
+in APPPATH\Controllers\influencer_controller.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 23:42:22 --> Undefined variable: dome
+in APPPATH\Libraries\facebook_calculate.php on line 50.
+ 1 APPPATH\Libraries\facebook_calculate.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dome', 'APPPATH\\Libraries\\facebook_calculate.php', 50, [...])
+ 2 APPPATH\Controllers\influencer_controller.php(28): App\Libraries\Facebook_Calculate->Facebook_Engage('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

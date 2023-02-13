@@ -1,0 +1,857 @@
+CRITICAL - 2022-12-01 02:30:29 --> Class "App\Models\Influencer_63" not found
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:31:42 --> default is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('default')
+ 2 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:31:59 --> default is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('default')
+ 2 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:32:00 --> default is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('default')
+ 2 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:32:01 --> default is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('default')
+ 2 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:33:25 --> default is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('default')
+ 2 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:33:31 --> default is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('default')
+ 2 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:46:02 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:46:03 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:46:04 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:46:04 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:46:04 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:46:05 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 02:46:05 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 APPPATH\Controllers\influencer_controller.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:04:09 --> Class "App\Models\Influencer" not found
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:04:12 --> Class "App\Models\Influencer" not found
+in APPPATH\Controllers\influencer_controller.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:28:19 --> Class "App\Models\Influencer_63" not found
+in APPPATH\Controllers\influencer_controller.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:28:53 --> default is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('default')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:33:45 -->  is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('ROOTPATH\\public')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:33:46 -->  is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('ROOTPATH\\public')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:33:47 -->  is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('ROOTPATH\\public')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:33:47 -->  is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('ROOTPATH\\public')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:33:47 -->  is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('ROOTPATH\\public')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:33:47 -->  is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('ROOTPATH\\public')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:33:47 -->  is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('ROOTPATH\\public')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:33:47 -->  is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('ROOTPATH\\public')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:34:02 --> default is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('default')
+ 2 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:35:40 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(21): CodeIgniter\Model->__call('query', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 03:44:10 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(21): CodeIgniter\Model->__call('query', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 04:49:16 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(21): CodeIgniter\Model->__call('query', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 20:06:51 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(21): CodeIgniter\Model->__call('query', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 20:07:02 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(21): CodeIgniter\Model->__call('query', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 20:38:03 --> database63 is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Database\Config::connect('database63')
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 21:19:03 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(30): CodeIgniter\Model->__call('query', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 21:21:07 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(30): CodeIgniter\Model->__call('query', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:14:02 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:14:22 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 APPPATH\Controllers\influencer_controller.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:14:42 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:14:53 --> Call to undefined method App\Models\Influencer_63::getResultArray
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\influencer_controller.php(40): CodeIgniter\Model->__call('getResultArray', [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:15:57 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:15:58 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:15:59 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:15:59 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:15:59 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:16:00 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:16:00 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:16:00 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:16:00 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:17:16 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:17:17 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:17:18 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:17:18 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:17:18 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:17:18 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:20:05 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:20:07 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:20:07 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:20:07 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:20:44 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 16.
+ 1 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:25:29 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 16.
+ 1 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:25:31 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 16.
+ 1 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:25:57 --> Call to undefined method App\Controllers\influencer_controller::database()
+in APPPATH\Controllers\influencer_controller.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:26:41 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 16.
+ 1 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:34:48 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 16.
+ 1 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:34:50 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 16.
+ 1 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:34:52 --> Undefined property: App\Controllers\influencer_controller::$load
+in APPPATH\Controllers\influencer_controller.php on line 16.
+ 1 APPPATH\Controllers\influencer_controller.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\influencer_controller::$load', 'APPPATH\\Controllers\\influencer_controller.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:39:29 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:42:31 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-01 22:42:45 --> mysqli_sql_exception: Not unique table/alias: 'influencer_stat_post_recent' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(32): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-12-01 22:42:45 --> Not unique table/alias: 'influencer_stat_post_recent'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata`, `follower`
+FROM `influencer_stat_post_recent`, `influencer_stat_post_recent`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata`, `follower`
+FROM `influencer_stat_post_recent`, `influencer_stat_post_recent`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata`, `follower`
+FROM `influencer_stat_post_recent`, `influencer_stat_post_recent`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata`, `follower`
+FROM `influencer_stat_post_recent`, `influencer_stat_post_recent`
+WHERE `network` = :network:
+ORDER BY `create_date` DESC', [...], false)
+ 5 SYSTEMPATH\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\influencer_controller.php(32): CodeIgniter\Model->__call('get', [])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-01 22:43:26 --> mysqli_sql_exception: Table 'influencer.influencer' doesn't exist in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(32): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-12-01 22:43:26 --> Table 'influencer.influencer' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata`, `follower`
+FROM `influencer_stat_post_recent`, `influencer`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata`, `follower`
+FROM `influencer_stat_post_recent`, `influencer`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata`, `follower`
+FROM `influencer_stat_post_recent`, `influencer`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata`, `follower`
+FROM `influencer_stat_post_recent`, `influencer`
+WHERE `network` = :network:
+ORDER BY `create_date` DESC', [...], false)
+ 5 SYSTEMPATH\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\influencer_controller.php(32): CodeIgniter\Model->__call('get', [])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:44 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:45 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:45 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:46 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:46 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:46 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:47 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:47 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:47 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:43:48 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\influencer_controller.php(27): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-01 22:44:09 --> mysqli_sql_exception: Table 'influencer.influencer' doesn't exist in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(32): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-12-01 22:44:09 --> Table 'influencer.influencer' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata`, `follower`
+FROM `influencer`, `influencer_stat_post_recent`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata`, `follower`
+FROM `influencer`, `influencer_stat_post_recent`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata`, `follower`
+FROM `influencer`, `influencer_stat_post_recent`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata`, `follower`
+FROM `influencer`, `influencer_stat_post_recent`
+WHERE `network` = :network:
+ORDER BY `create_date` DESC', [...], false)
+ 5 SYSTEMPATH\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\influencer_controller.php(32): CodeIgniter\Model->__call('get', [])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-01 22:46:56 --> mysqli_sql_exception: Table 'influencer.influencer' doesn't exist in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(32): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-12-01 22:46:56 --> Table 'influencer.influencer' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata`, `follower`
+FROM `influencer`, `influencer_stat_post_recent`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata`, `follower`
+FROM `influencer`, `influencer_stat_post_recent`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata`, `follower`
+FROM `influencer`, `influencer_stat_post_recent`
+WHERE `network` = \'instagraminfluencer_id\'
+ORDER BY `create_date` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata`, `follower`
+FROM `influencer`, `influencer_stat_post_recent`
+WHERE `network` = :network:
+ORDER BY `create_date` DESC', [...], false)
+ 5 SYSTEMPATH\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\influencer_controller.php(32): CodeIgniter\Model->__call('get', [])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 22:47:38 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:01:28 --> default is not a valid database connection group.
+in SYSTEMPATH\Database\Config.php on line 70.
+ 1 SYSTEMPATH\Model.php(137): CodeIgniter\Database\Config::connect('default')
+ 2 APPPATH\Controllers\influencer_controller.php(19): CodeIgniter\Model->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:24:27 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:28:20 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:33:06 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:34:30 --> Call to undefined method App\Models\Influencer_63::getResultArray
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\influencer_controller.php(20): CodeIgniter\Model->__call('getResultArray', [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:34:42 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:34:58 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:37:46 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:37:48 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:37:49 --> Object of class App\Models\Influencer_63 could not be converted to string
+in APPPATH\Controllers\influencer_controller.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:39:28 --> Call to undefined method App\Models\Influencer_63::getResultArray
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\influencer_controller.php(49): CodeIgniter\Model->__call('getResultArray', [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-01 23:51:59 --> mysqli_sql_exception: Table 'influencer.influencer' doesn't exist in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(38): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-12-01 23:51:59 --> Table 'influencer.influencer' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `rawdata`, `follower`
+FROM `influencer`
+WHERE `network` = \'influencer_id\'
+ORDER BY `create_date` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rawdata`, `follower`
+FROM `influencer`
+WHERE `network` = \'influencer_id\'
+ORDER BY `create_date` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rawdata`, `follower`
+FROM `influencer`
+WHERE `network` = \'influencer_id\'
+ORDER BY `create_date` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `rawdata`, `follower`
+FROM `influencer`
+WHERE `network` = :network:
+ORDER BY `create_date` DESC', [...], false)
+ 5 SYSTEMPATH\Model.php(772): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\influencer_controller.php(38): CodeIgniter\Model->__call('get', [])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:54:49 --> Undefined variable $rawdata_database_63
+in APPPATH\Views\demo_view.php on line 301.
+ 1 APPPATH\Views\demo_view.php(301): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rawdata_database_63', 'APPPATH\\Views\\demo_view.php', 301)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(63): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:55:35 --> Cannot use object of type mysqli as array
+in APPPATH\Views\demo_view.php on line 302.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 4 APPPATH\Controllers\influencer_controller.php(63): view('demo_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 23:56:11 --> Call to undefined method App\Models\Influencer_63::getResultArray
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\influencer_controller.php(38): CodeIgniter\Model->__call('getResultArray', [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

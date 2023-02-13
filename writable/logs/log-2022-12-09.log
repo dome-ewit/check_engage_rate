@@ -1,0 +1,1596 @@
+CRITICAL - 2022-12-09 00:05:58 --> Undefined variable $rawdata_63
+in APPPATH\Views\demo.php on line 69.
+ 1 APPPATH\Views\demo.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rawdata_63', 'APPPATH\\Views\\demo.php', 69)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 00:06:13 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 72.
+ 1 APPPATH\Views\demo.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 72)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:27:16 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 89.
+ 1 APPPATH\Views\demo.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:27:35 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 89.
+ 1 APPPATH\Views\demo.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:28:40 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 89.
+ 1 APPPATH\Views\demo.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:29:11 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 89.
+ 1 APPPATH\Views\demo.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:29:25 --> Value of type int is not callable
+in APPPATH\Views\demo.php on line 85.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 4 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:29:42 --> Value of type int is not callable
+in APPPATH\Views\demo.php on line 85.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 4 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:30:21 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 89.
+ 1 APPPATH\Views\demo.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:30:52 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:31:20 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:31:51 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:33:09 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:34:00 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:34:31 --> Undefined variable $key
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $key', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:35:02 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:35:30 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:36:46 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:38:57 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:39:58 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:43:56 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:45:37 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:45:57 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:46:17 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:46:53 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:47:48 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:48:00 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:48:18 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:49:14 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:49:45 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:49:47 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:53:28 --> Undefined variable $results
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $results', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:54:45 --> Undefined variable $results
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $results', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:54:57 --> Undefined variable $results
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $results', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:55:35 --> Array to string conversion
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:55:44 --> Array callback must have exactly two elements
+in APPPATH\Views\demo.php on line 71.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 4 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:56:00 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 79.
+ 1 APPPATH\Views\demo.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:56:14 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 79.
+ 1 APPPATH\Views\demo.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:56:29 --> Array to string conversion
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:56:38 --> Array to string conversion
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:59:13 --> Array to string conversion
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:59:16 --> Array to string conversion
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:59:33 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 79.
+ 1 APPPATH\Views\demo.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 01:59:48 --> Attempt to read property "link" on int
+in APPPATH\Views\demo.php on line 79.
+ 1 APPPATH\Views\demo.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on int', 'APPPATH\\Views\\demo.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:01:33 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 88.
+ 1 APPPATH\Views\demo.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 88)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:02:38 --> Undefined array key "link"
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "link"', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:02:51 --> Undefined array key "data"
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "data"', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:02:59 --> Undefined array key "link"
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "link"', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:04:01 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:04:09 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:06:04 --> Undefined variable $data
+in APPPATH\Views\demo.php on line 71.
+ 1 APPPATH\Views\demo.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Views\\demo.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:10:40 --> Trying to access array offset on value of type int
+in APPPATH\Views\demo.php on line 74.
+ 1 APPPATH\Views\demo.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\demo.php', 74)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:12:57 --> Array to string conversion
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:13:13 --> Array to string conversion
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:13:34 --> Array to string conversion
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:13:47 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:18:56 --> Attempt to read property "3873" on string
+in APPPATH\Views\demo.php on line 74.
+ 1 APPPATH\Views\demo.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "3873" on string', 'APPPATH\\Views\\demo.php', 74)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:20:38 --> Array to string conversion
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:20:48 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:21:04 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:21:36 --> Array to string conversion
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:21:54 --> Value of type int is not callable
+in APPPATH\Views\demo.php on line 83.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 4 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:24:46 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:25:20 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:25:46 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:26:10 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:27:55 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:28:07 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:28:18 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:28:50 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:29:23 --> Trying to access array offset on value of type int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:29:52 --> Attempt to read property "Like" on int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "Like" on int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:29:59 --> Attempt to read property "like" on int
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on int', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:30:21 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:42:45 --> Undefined property: App\Libraries\Facebook_Calculate::$facebook_results
+in APPPATH\Controllers\influencer_controller.php on line 43.
+ 1 APPPATH\Controllers\influencer_controller.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Libraries\\Facebook_Calculate::$facebook_results', 'APPPATH\\Controllers\\influencer_controller.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:47:45 --> Undefined array key "like"
+in APPPATH\Controllers\influencer_controller.php on line 73.
+ 1 APPPATH\Controllers\influencer_controller.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "like"', 'APPPATH\\Controllers\\influencer_controller.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:53:45 --> Undefined array key "rawdata"
+in APPPATH\Views\demo.php on line 72.
+ 1 APPPATH\Views\demo.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "rawdata"', 'APPPATH\\Views\\demo.php', 72)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 02:54:14 --> Undefined array key "rawdata"
+in APPPATH\Views\demo.php on line 72.
+ 1 APPPATH\Views\demo.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "rawdata"', 'APPPATH\\Views\\demo.php', 72)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-09 02:56:54 --> Error connecting to the database: mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('122.155.166.63', 'intern', 'TVIw3yZchDLH', 'influencer', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\system\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,...')
+#4 C:\xampp\htdocs\ci4\app\Models\database63_.php(20): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\ci4\app\Libraries\link.php(16): App\Models\database63_->query_63('11081', 'facebook')
+#6 C:\xampp\htdocs\ci4\app\Libraries\link.php(31): App\Libraries\Link->calculateEngage('11081', 'facebook')
+#7 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\system\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,...')
+#3 C:\xampp\htdocs\ci4\app\Models\database63_.php(20): CodeIgniter\Model->__call('query', Array)
+#4 C:\xampp\htdocs\ci4\app\Libraries\link.php(16): App\Models\database63_->query_63('11081', 'facebook')
+#5 C:\xampp\htdocs\ci4\app\Libraries\link.php(31): App\Libraries\Link->calculateEngage('11081', 'facebook')
+#6 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-12-09 02:56:54 --> Unable to connect to the database.
+Main connection [MySQLi]: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,follower FROM influencer_stat_post_recent WHERE network = \'facebook\' AND influencer_id = \'11081\'
+        ORDER BY create_date DESC
+        LIMIT 0,1')
+ 3 APPPATH\Models\database63_.php(20): CodeIgniter\Model->__call('query', [...])
+ 4 APPPATH\Libraries\link.php(16): App\Models\database63_->query_63('11081', 'facebook')
+ 5 APPPATH\Libraries\link.php(31): App\Libraries\Link->calculateEngage('11081', 'facebook')
+ 6 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:00:36 --> Undefined array key "rawdata"
+in APPPATH\Controllers\influencer_controller.php on line 45.
+ 1 APPPATH\Controllers\influencer_controller.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "rawdata"', 'APPPATH\\Controllers\\influencer_controller.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:00:50 --> Undefined variable $rawdata
+in APPPATH\Views\demo.php on line 72.
+ 1 APPPATH\Views\demo.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rawdata', 'APPPATH\\Views\\demo.php', 72)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:02:04 --> Undefined array key "like"
+in APPPATH\Controllers\influencer_controller.php on line 75.
+ 1 APPPATH\Controllers\influencer_controller.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "like"', 'APPPATH\\Controllers\\influencer_controller.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:02:14 --> Undefined variable $rawdata
+in APPPATH\Views\demo.php on line 72.
+ 1 APPPATH\Views\demo.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rawdata', 'APPPATH\\Views\\demo.php', 72)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:02:28 --> Array to string conversion
+in APPPATH\Views\demo.php on line 84.
+ 1 APPPATH\Views\demo.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 84)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:03:50 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:04:05 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:04:20 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:04:37 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:04:59 --> Trying to access array offset on value of type int
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:05:11 --> Trying to access array offset on value of type int
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:05:20 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:05:39 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:05:58 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:06:37 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:06:44 --> Undefined constant "like"
+in APPPATH\Views\demo.php on line 83.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 4 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-09 03:07:15 --> Error connecting to the database: mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('122.155.166.63', 'intern', 'TVIw3yZchDLH', 'influencer', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\system\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,...')
+#4 C:\xampp\htdocs\ci4\app\Models\database63_.php(20): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\ci4\app\Libraries\link.php(16): App\Models\database63_->query_63('11081', 'facebook')
+#6 C:\xampp\htdocs\ci4\app\Libraries\link.php(31): App\Libraries\Link->calculateEngage('11081', 'facebook')
+#7 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\system\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,...')
+#3 C:\xampp\htdocs\ci4\app\Models\database63_.php(20): CodeIgniter\Model->__call('query', Array)
+#4 C:\xampp\htdocs\ci4\app\Libraries\link.php(16): App\Models\database63_->query_63('11081', 'facebook')
+#5 C:\xampp\htdocs\ci4\app\Libraries\link.php(31): App\Libraries\Link->calculateEngage('11081', 'facebook')
+#6 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-12-09 03:07:15 --> Unable to connect to the database.
+Main connection [MySQLi]: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,follower FROM influencer_stat_post_recent WHERE network = \'facebook\' AND influencer_id = \'11081\'
+        ORDER BY create_date DESC
+        LIMIT 0,1')
+ 3 APPPATH\Models\database63_.php(20): CodeIgniter\Model->__call('query', [...])
+ 4 APPPATH\Libraries\link.php(16): App\Models\database63_->query_63('11081', 'facebook')
+ 5 APPPATH\Libraries\link.php(31): App\Libraries\Link->calculateEngage('11081', 'facebook')
+ 6 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-09 03:07:52 --> Error connecting to the database: mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('192.168.11.24', 'intern', 'TVIw3yZchDLH', 'influencer', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\system\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT facebook...')
+#4 C:\xampp\htdocs\ci4\app\Models\database24_.php(26): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\ci4\app\Libraries\link.php(20): App\Models\database24_->query_24('11081', 'facebook')
+#6 C:\xampp\htdocs\ci4\app\Libraries\link.php(31): App\Libraries\Link->calculateEngage('11081', 'facebook')
+#7 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\system\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT facebook...')
+#3 C:\xampp\htdocs\ci4\app\Models\database24_.php(26): CodeIgniter\Model->__call('query', Array)
+#4 C:\xampp\htdocs\ci4\app\Libraries\link.php(20): App\Models\database24_->query_24('11081', 'facebook')
+#5 C:\xampp\htdocs\ci4\app\Libraries\link.php(31): App\Libraries\Link->calculateEngage('11081', 'facebook')
+#6 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-12-09 03:07:52 --> Unable to connect to the database.
+Main connection [MySQLi]: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Model.php(768): CodeIgniter\Database\BaseConnection->query('SELECT facebook_engage_average,facebook_engage_rate,facebook_link,facebook_followed
+        ,instagram_engage_average, instagram_engage_rate,instagram_link,instagram_followed_by
+        ,twitter_engage_average,twitter_engage_rate,twitter_link,twitter_followers
+        ,tiktok_engage_average,tiktok_engage_rate,tiktok_link,tiktok_followers
+        FROM influencer WHERE   influencer_id = \'11081\'
+        ORDER BY created_date DESC
+        LIMIT 0, 1')
+ 3 APPPATH\Models\database24_.php(26): CodeIgniter\Model->__call('query', [...])
+ 4 APPPATH\Libraries\link.php(20): App\Models\database24_->query_24('11081', 'facebook')
+ 5 APPPATH\Libraries\link.php(31): App\Libraries\Link->calculateEngage('11081', 'facebook')
+ 6 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:08:00 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:08:42 --> syntax error, unexpected token ";"
+in APPPATH\Views\demo.php on line 83.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 3 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:09:36 --> Array to string conversion
+in APPPATH\Views\demo.php on line 83.
+ 1 APPPATH\Views\demo.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 83)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:16:14 --> Unclosed '{' on line 79
+in APPPATH\Views\demo.php on line 122.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 3 APPPATH\Controllers\influencer_controller.php(77): view('demo', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:23:18 --> Array to string conversion
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:23:38 --> Array to string conversion
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:24:03 --> Trying to access array offset on value of type int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:24:50 --> Trying to access array offset on value of type int
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:25:18 --> Trying to access array offset on value of type int
+in APPPATH\Views\demo.php on line 79.
+ 1 APPPATH\Views\demo.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\demo.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(74): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:28:00 --> Undefined property: stdClass::$commnt
+in APPPATH\Libraries\link.php on line 48.
+ 1 APPPATH\Libraries\link.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$commnt', 'APPPATH\\Libraries\\link.php', 48)
+ 2 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:28:08 --> Undefined property: stdClass::$shear
+in APPPATH\Libraries\link.php on line 49.
+ 1 APPPATH\Libraries\link.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$shear', 'APPPATH\\Libraries\\link.php', 49)
+ 2 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:28:18 --> Undefined property: stdClass::$shaer
+in APPPATH\Libraries\link.php on line 49.
+ 1 APPPATH\Libraries\link.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$shaer', 'APPPATH\\Libraries\\link.php', 49)
+ 2 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:52:17 --> Cannot use object of type App\Libraries\Link as array
+in APPPATH\Libraries\link.php on line 16.
+ 1 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'facebook')
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:54:28 --> Undefined variable $link
+in APPPATH\Libraries\post.php on line 111.
+ 1 APPPATH\Libraries\post.php(111): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $link', 'APPPATH\\Libraries\\post.php', 111)
+ 2 APPPATH\Controllers\influencer_controller.php(40): App\Libraries\post->postt('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:56:57 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 78.
+ 1 APPPATH\Views\demo.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:57:10 --> Undefined variable $like
+in APPPATH\Views\demo.php on line 78.
+ 1 APPPATH\Views\demo.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $like', 'APPPATH\\Views\\demo.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:57:57 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:58:27 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:58:58 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 77.
+ 1 APPPATH\Views\demo.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 03:59:33 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 79.
+ 1 APPPATH\Views\demo.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:00:09 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 80.
+ 1 APPPATH\Views\demo.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 80)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:00:18 --> Undefined variable $id_post
+in APPPATH\Views\demo.php on line 80.
+ 1 APPPATH\Views\demo.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_post', 'APPPATH\\Views\\demo.php', 80)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:02:22 --> Attempt to read property "id_post" on array
+in APPPATH\Views\demo.php on line 80.
+ 1 APPPATH\Views\demo.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_post" on array', 'APPPATH\\Views\\demo.php', 80)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:02:51 --> Undefined array key "id_post"
+in APPPATH\Views\demo.php on line 80.
+ 1 APPPATH\Views\demo.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_post"', 'APPPATH\\Views\\demo.php', 80)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:03:10 --> Undefined array key "id_post"
+in APPPATH\Views\demo.php on line 80.
+ 1 APPPATH\Views\demo.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_post"', 'APPPATH\\Views\\demo.php', 80)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:11:25 --> Undefined variable $post
+in APPPATH\Libraries\post.php on line 139.
+ 1 APPPATH\Libraries\post.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $post', 'APPPATH\\Libraries\\post.php', 139)
+ 2 APPPATH\Controllers\influencer_controller.php(40): App\Libraries\post->postt('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:12:05 --> Undefined variable $post
+in APPPATH\Libraries\post.php on line 139.
+ 1 APPPATH\Libraries\post.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $post', 'APPPATH\\Libraries\\post.php', 139)
+ 2 APPPATH\Controllers\influencer_controller.php(40): App\Libraries\post->postt('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:12:23 --> Undefined variable $post
+in APPPATH\Libraries\post.php on line 139.
+ 1 APPPATH\Libraries\post.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $post', 'APPPATH\\Libraries\\post.php', 139)
+ 2 APPPATH\Controllers\influencer_controller.php(40): App\Libraries\post->postt('11081', 'facebook')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:12:31 --> Undefined variable $link_post
+in APPPATH\Libraries\link.php on line 122.
+ 1 APPPATH\Libraries\link.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $link_post', 'APPPATH\\Libraries\\link.php', 122)
+ 2 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'twitter')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:13:34 --> Undefined array key "id_post"
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_post"', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:14:05 --> Attempt to read property "like" on array
+in APPPATH\Views\demo.php on line 82.
+ 1 APPPATH\Views\demo.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "like" on array', 'APPPATH\\Views\\demo.php', 82)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:14:41 --> Attempt to read property "share" on array
+in APPPATH\Views\demo.php on line 84.
+ 1 APPPATH\Views\demo.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "share" on array', 'APPPATH\\Views\\demo.php', 84)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:18:37 --> Undefined variable $link_post
+in APPPATH\Libraries\link.php on line 122.
+ 1 APPPATH\Libraries\link.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $link_post', 'APPPATH\\Libraries\\link.php', 122)
+ 2 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'instagram')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:19:15 --> Undefined variable $link_post
+in APPPATH\Libraries\link.php on line 122.
+ 1 APPPATH\Libraries\link.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $link_post', 'APPPATH\\Libraries\\link.php', 122)
+ 2 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'twitter')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:20:13 --> Undefined property: stdClass::$share
+in APPPATH\Libraries\post.php on line 67.
+ 1 APPPATH\Libraries\post.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$share', 'APPPATH\\Libraries\\post.php', 67)
+ 2 APPPATH\Controllers\influencer_controller.php(40): App\Libraries\post->postt('11081', 'instagram')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:20:34 --> Undefined property: stdClass::$share
+in APPPATH\Libraries\post.php on line 67.
+ 1 APPPATH\Libraries\post.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$share', 'APPPATH\\Libraries\\post.php', 67)
+ 2 APPPATH\Controllers\influencer_controller.php(40): App\Libraries\post->postt('11081', 'instagram')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:21:12 --> Undefined property: stdClass::$share
+in APPPATH\Libraries\post.php on line 92.
+ 1 APPPATH\Libraries\post.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$share', 'APPPATH\\Libraries\\post.php', 92)
+ 2 APPPATH\Controllers\influencer_controller.php(40): App\Libraries\post->postt('11081', 'twitter')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:21:31 --> Undefined property: stdClass::$view
+in APPPATH\Libraries\post.php on line 93.
+ 1 APPPATH\Libraries\post.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Libraries\\post.php', 93)
+ 2 APPPATH\Controllers\influencer_controller.php(40): App\Libraries\post->postt('11081', 'twitter')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:22:10 --> Undefined variable $post
+in APPPATH\Libraries\post.php on line 135.
+ 1 APPPATH\Libraries\post.php(135): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $post', 'APPPATH\\Libraries\\post.php', 135)
+ 2 APPPATH\Controllers\influencer_controller.php(40): App\Libraries\post->postt('11081', 'tiktok')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:24:59 --> Attempt to read property "link" on array
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link" on array', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:25:10 --> Attempt to read property "link_post" on array
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link_post" on array', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:25:39 --> Attempt to read property "link_post" on array
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "link_post" on array', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:26:00 --> Attempt to read property "id_post" on array
+in APPPATH\Views\demo.php on line 81.
+ 1 APPPATH\Views\demo.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_post" on array', 'APPPATH\\Views\\demo.php', 81)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(78): view('demo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:26:54 --> Undefined variable $link
+in APPPATH\Libraries\link.php on line 120.
+ 1 APPPATH\Libraries\link.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $link', 'APPPATH\\Libraries\\link.php', 120)
+ 2 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('584080', 'ROOTPATH\\public')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:38:28 --> Undefined variable $link
+in APPPATH\Libraries\link.php on line 120.
+ 1 APPPATH\Libraries\link.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $link', 'APPPATH\\Libraries\\link.php', 120)
+ 2 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link('11081', 'ROOTPATH\\public')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 04:39:09 --> Undefined variable $link
+in APPPATH\Libraries\link.php on line 120.
+ 1 APPPATH\Libraries\link.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $link', 'APPPATH\\Libraries\\link.php', 120)
+ 2 APPPATH\Controllers\influencer_controller.php(37): App\Libraries\Link->link(null, null)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
